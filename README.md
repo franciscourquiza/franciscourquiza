@@ -21,7 +21,11 @@
 <div>
   <p align="center">
 	<a href="https://github.com/franciscourquiza/Ecommerce-API-NET">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=franciscourquiza&repo=Ecommerce-API-NET&theme=dark" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=franciscourquiza&repo=Ecommerce-API-.NET&theme=dark" alt="GitHub Stats" />
+  </a>
+    <p align="center">
+	<a href="https://github.com/franciscourquiza/Ecommerce-API-NET">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=franciscourquiza&repo=Portfolio-API-.NET&theme=dark" alt="GitHub Stats" />
   </a>
 
  
