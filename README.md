@@ -6,7 +6,7 @@
 <h2 align="left">About me<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h2>
 <pre>
 💻 I am a backend developer
-📝 I have an strong interest in improve my skills like dev
+📝 I have a strong interest in improve my skills like backend dev
 🌟 Main skills: C#, .NET, Entity Framework Core, SQL
 🚩 I don´t really like interpreted languages
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>
